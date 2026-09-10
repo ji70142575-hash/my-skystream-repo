@@ -1,0 +1,9 @@
+{
+  "name": "Jitendra SkyStream",
+  "packageName": "com.jitendra.skystreamrepo",
+  "description": "Legal and public-domain SkyStream plugins",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/YOUR_USERNAME/my-skystream-repo/main/dist/plugins.json"
+  ]
+}
