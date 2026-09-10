@@ -1,0 +1,8 @@
+{
+  "packageName": "com.jitendra.demo",
+  "name": "Jitendra Demo",
+  "version": 1,
+  "author": "Jitendra",
+  "description": "A simple legal demo provider for SkyStream",
+  "baseUrl": "https://example.com"
+}
