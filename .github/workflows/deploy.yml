@@ -19,8 +19,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install SkyStream CLI
-        run: npm install -g skystream-cl
+      
 
       - name: Commit generated files
         run: |
