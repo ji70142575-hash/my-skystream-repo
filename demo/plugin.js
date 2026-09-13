@@ -51,3 +51,4 @@
     globalThis.loadStreams = loadStreams;
 
 })();
+https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/manifest.json
